@@ -4,3 +4,4 @@ This is the project Artificial Intelligence using Python, where AI automatically
 Install:
 1. pip install pygame
 2. pip install numpy
+3. pip install pickel
